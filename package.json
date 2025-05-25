@@ -32,7 +32,7 @@
     "@modelcontextprotocol/sdk": "^1.10.2",
     "dotenv": "^16.5.0",
     "mime-types": "^3.0.1",
-    "openai": "^4.96.2",
+    "openai": "^4.97.0",
     "tmp": "^0.2.3",
     "vitest": "^3.1.2"
   },

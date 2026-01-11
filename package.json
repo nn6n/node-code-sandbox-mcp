@@ -29,7 +29,7 @@
     "push-release": "git push --follow-tags origin master"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.10.2",
+    "@modelcontextprotocol/sdk": "^1.25.2",
     "dotenv": "^16.5.0",
     "mime-types": "^3.0.1",
     "openai": "^4.96.2",
